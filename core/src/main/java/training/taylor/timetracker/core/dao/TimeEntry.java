@@ -22,7 +22,8 @@ public class TimeEntry {
     }
 
     public float getRate() {
-        return rate;
+        return rate; 
+        
     }
 
     public void setRate(float value) {
